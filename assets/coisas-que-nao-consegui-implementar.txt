@@ -1,0 +1,14 @@
+IMPORTANTE FAZER
+- Menu
+- fim de jogo ao matar o boss
+- mudar a imagem de tudo
+- deixar o código em português sem zuar o jogo
+- colocar música de fundo
+- colocar sons na hora de atirar, morrer, explodir os inimigos
+- Arrumar uma fonte em bitmap melhor
+
+TALVEZ FAZER
+- talvez um shop pra mudar só a skin do seu personagem
+- uma área pra botar códigos tipo hack
+- muito talvez uma cutscene pra iniciar o jogo antes de abrir o menu
+- muito mas muito talvez adicionar Easter Eggs tipo códigos secretos na área do hack
